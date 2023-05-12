@@ -1,4 +1,4 @@
-Developed as project in C# Programming language 
+Developed as project in C# Programming language
 
 Project focused on:
  1 - Delegates & Events
